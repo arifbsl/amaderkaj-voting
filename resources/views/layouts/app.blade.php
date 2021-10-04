@@ -30,7 +30,7 @@
       <h2 class="text-3xl font-extrabold tracking-tight text-blue sm:text-4xl">
         <span class="block">AmaderKaj</span>
       </h2>
-      <h3 class="block text-xl font-bold">Discuss your problem</h3>
+      <h3 class="block text-xl font-bold">Discuss your problem </h3>
     </a>
     <div class="flex items-center mt-2 md:mt-0">
       @if (Route::has('login'))
