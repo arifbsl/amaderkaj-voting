@@ -1,3 +1,9 @@
+# AmakderKaj
+A discussion app
+
+## Used Technologies
+
+
 ## Installation
 
 1. Clone the repo and `cd` into it
