@@ -1,7 +1,3 @@
-## Community Blog with voting
-
-Each episode has a corresponding commit in git, so checkout the commit history for that. If you would like to go back to a particular point, you can do a `git checkout <hash_of_commit>`.
-
 ## Installation
 
 1. Clone the repo and `cd` into it
