@@ -2,8 +2,8 @@
 A discussion app
 
 ## Used Technologies
-1. tailwindcss
-2. alpinejs
+1. TailwindCSS
+2. Alpine.js
 3. Laravel
 
 ## Installation
