@@ -1,8 +1,10 @@
-# AmakderKaj
+# AmaderKaj
 A discussion app
 
 ## Used Technologies
-
+1. TailwindCSS
+2. Alpine.js
+3. Laravel
 
 ## Installation
 
