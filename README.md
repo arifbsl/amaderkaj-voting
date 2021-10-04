@@ -1,4 +1,4 @@
-# AmakderKaj
+# AmaderKaj
 A discussion app
 
 ## Used Technologies
